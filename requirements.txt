@@ -1,0 +1,8 @@
+pymupdf<=1.24.2
+rich
+requests
+pycryptodome
+u-msgpack-python
+tinydb
+playwright
+lxml
