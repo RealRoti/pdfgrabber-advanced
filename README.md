@@ -14,21 +14,21 @@ Last update: **13 sept 2024**
 
 | **service**                      | **last sync to original version** | **additional info**                                                       |
 |----------------------------------|-----------------------------------|---------------------------------------------------------------------------|
-| MyLim                            | 11/09/2024                        |                                                                           |
-| Pearson Reader+ / Pearson+       | 11/09/2024                        |                                                                           |
-| bSmart / HoepliAcademy+          | 11/09/2024                        |                                                                           |
-| Mondadori HUB Scuola             | 11/09/2024                        |                                                                           |
+| MyLim                            | Up to date                        |                                                                           |
+| Pearson Reader+ / Pearson+       | Up to date                          |                                                                           |
+| bSmart / HoepliAcademy+          | Up to date                          |                                                                           |
+| Mondadori HUB Scuola             | Up to date                         |                                                                           |
 | Zanichelli                       | 27/02/2024                        | removed from the original version, not updated anymore, but still working |
-| MEE2 / Blinklearning             | 11/09/2024                        |                                                                           |
-| easyeschool                      | 11/09/2024                        |                                                                           |
-| Oxford Learner’s Bookshelf       | 11/09/2024                        |                                                                           |
-| Laterza diBooK                   | 11/09/2024                        |                                                                           |
-| Raffaello Player                 | 11/09/2024                        |                                                                           |
-| Cambridge GO                     | 11/09/2024                        |                                                                           |
-| Palumbo Editore - Saggi Digitali | 11/09/2024                        |                                                                           |
-| Cengage Read                     | 11/09/2024                        |                                                                           |
-| Oxford Reading Club              | 11/09/2024                        |                                                                           |
-| Sanoma My Place                  | 11/09/2024                        |                                                                           |
+| MEE2 / Blinklearning             | Up to date                         |                                                                           |
+| easyeschool                      | Up to date                          |                                                                           |
+| Oxford Learner’s Bookshelf       | Up to date                         |                                                                           |
+| Laterza diBooK                   | Up to date                          |                                                                           |
+| Raffaello Player                 | Up to date                          |                                                                           |
+| Cambridge GO                     | Up to date                          |                                                                           |
+| Palumbo Editore - Saggi Digitali | Up to date                         |                                                                           |
+| Cengage Read                     | Up to date                          |                                                                           |
+| Oxford Reading Club              | Up to date                         |                                                                           |
+| Sanoma My Place                  | Up to date                        |                                                                           |
 
 
 # Installation
