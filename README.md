@@ -7,29 +7,10 @@ Even though this script exists, you are responsibile of the PDFs generated. Chec
 Redistribution of PDFs is highly discouraged and not supported by the Author.
 
 # Updates
+Last update from source: **21 oct 2024**
 
-Last update: **13 sept 2024**
-
-## Services update
-
-| **service**                      | **last sync to original version** | **additional info**                                                       |
-|----------------------------------|-----------------------------------|---------------------------------------------------------------------------|
-| MyLim                            | 11/09/2024                        |                                                                           |
-| Pearson Reader+ / Pearson+       | 11/09/2024                        |                                                                           |
-| bSmart / HoepliAcademy+          | 11/09/2024                        |                                                                           |
-| Mondadori HUB Scuola             | 11/09/2024                        |                                                                           |
-| Zanichelli                       | 27/02/2024                        | removed from the original version, not updated anymore, but still working |
-| MEE2 / Blinklearning             | 11/09/2024                        |                                                                           |
-| easyeschool                      | 11/09/2024                        |                                                                           |
-| Oxford Learner’s Bookshelf       | 11/09/2024                        |                                                                           |
-| Laterza diBooK                   | 11/09/2024                        |                                                                           |
-| Raffaello Player                 | 11/09/2024                        |                                                                           |
-| Cambridge GO                     | 11/09/2024                        |                                                                           |
-| Palumbo Editore - Saggi Digitali | 11/09/2024                        |                                                                           |
-| Cengage Read                     | 11/09/2024                        |                                                                           |
-| Oxford Reading Club              | 11/09/2024                        |                                                                           |
-| Sanoma My Place                  | 11/09/2024                        |                                                                           |
-
+# Features
+Zanichelli download is still kept active here. For any legal complain don't hesitate to contact me. User is responsible for its own actions.
 
 # Installation
 1. download the latest version of [Python](https://www.python.org/downloads/)
