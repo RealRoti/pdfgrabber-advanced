@@ -1,16 +1,12 @@
 # What is this?
-This is an unofficial fork from [PDFGrabber](https://github.com/FelixFrog/pdfgrabber), a vendor-agnostic script is used to download pdfs (and covers) from different services.
+This is an unofficial fork from [PDFGrabber](https://github.com/FelixFrog/pdfgrabber), a vendor-agnostic script is used to download pdfs from different services.
+
+❌ Important: the original project has been discontinued. For this reason, no more updates will be relased. Last update from source: 11 dec 2024
 
 # Disclaimer
 This script is provided "as is", without any type of warranty. I am not responsible of any harm that this may cause.
 Even though this script exists, you are responsibile of the PDFs generated. Check if the backup of books is legal in your country.
 Redistribution of PDFs is highly discouraged and not supported by the Author.
-
-# Updates
-Last update from source: **21 oct 2024**
-
-# Features
-Zanichelli download is still kept active here. For any legal complain don't hesitate to contact me. User is responsible for its own actions.
 
 # Installation
 1. download the latest version of [Python](https://www.python.org/downloads/)
@@ -30,15 +26,5 @@ Zanichelli download is still kept active here. For any legal complain don't hesi
     - choose what to do (it's listed):
        - to download a book: press `d` and follow the instructions.
        - the output file will be `files/<service>/<book name>.pdf`
-
-
-# Support
-Please consider supporting the original project (not me!):
-
-[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/flx/donate)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z4PCZUI)
-
-Also [Satispay](https://www.satispay.com/app/match/link/user/S6Y-CON--A7BC8CDF-2EF5-40B7-884C-FDAB482CA8ED)
 
 
